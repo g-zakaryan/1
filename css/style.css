@@ -51,6 +51,11 @@ span {
   font-size: 25px;
   color: brown;
 }
+.example-h1 {
+  font-size: 35px;
+  color: rgb(23, 206, 106);
+  padding-bottom: 10px;
+}
 
 .example-block {
   display: auto;
