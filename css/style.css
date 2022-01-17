@@ -56,5 +56,14 @@ span {
   width: 700px;
   border: 1px solid #000;
 }
+
 .example-string {
+}
+
+.example-dog {
+  width: 200px;
+}
+
+.example-big {
+  width: 200px;
 }
